@@ -1,6 +1,6 @@
 print ("hello emmy")
 for i in range 5{
-    print("hello Rudasingwa")
+    print("hello Tom")
 }
 
 a = 1
